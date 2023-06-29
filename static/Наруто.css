@@ -1,0 +1,112 @@
+ .u-section-1 {
+  background-image: url("images/1625668409_7-kartinkin-com-p-oboi-po-naruto-krasivie-7.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 835px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 243px;
+  height: 362px;
+  margin: 37px auto 0 14px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -362px 59px 0 472px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 41px 269px 0 298px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 286px 517px 0 14px;
+}
+
+.u-section-1 .u-btn-1 {
+  margin: -168px 41px 60px auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 4.625em;
+  vertical-align: -13px;
+  margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 689px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 331px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 169px;
+    margin-left: 198px;
+    width: 573px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 331px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 111px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 59px;
+    margin-left: 88px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 111px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 396px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 249px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}

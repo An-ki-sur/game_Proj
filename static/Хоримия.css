@@ -1,0 +1,100 @@
+ .u-section-1 {
+  background-image: url("images/game4v-horimiya-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 882px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 8px 59px 0 508px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 243px;
+  height: 362px;
+  margin: 0 auto 0 29px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -354px 68px 0 302px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 120px 499px 0 68px;
+}
+
+.u-section-1 .u-btn-1 {
+  margin: 52px 41px 60px auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 4.625em;
+  vertical-align: -13px;
+  margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 727px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 367px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 170px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 367px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 557px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 147px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 147px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 418px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 263px;
+  }
+}
